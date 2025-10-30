@@ -3,7 +3,7 @@
 ### Overview
 This project implements a computer vision pipeline for **autonomous vehicle and intelligent transport system (ITS)** image detection using **MobileNetV3** on a custom dataset.  
 It was developed and tested in Google Colab, optimized for real-world object recognition across multiple vehicle classes such as cars, buses, and trucks.
-
+( for the images.zip file dm me personally , size to big) 
 ---
 
 ## 🧠 Model Pipeline
